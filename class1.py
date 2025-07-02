@@ -5,6 +5,6 @@ class anjing:
     def gonggong(self):
         print(f"aum aum. aku {self.nama}")
 
-anjingku = anjing("selti", 10)
+anjingku = anjing("serli", 10)
 anjingku.gonggong()
 
